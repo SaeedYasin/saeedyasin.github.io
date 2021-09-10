@@ -1,6 +1,4 @@
 /node_modules/
-/public/build/
-/public/g/
 stats.html
 treemap.html
 sunburst.html
